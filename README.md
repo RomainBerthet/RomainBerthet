@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @RomainBerthet
+- 👀 I’m interested in anything related to Data and Open Data
+- 💼 I work both in IT and Politics
+- ⚙️ I use daily: .ts, .html, .css, .sh, .py
+- 🌱 I’m currently improving my skills in: IA, Data Engineering, Software Engineering, ...
